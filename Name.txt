@@ -1,0 +1,7 @@
+<html>
+  <head>
+    <title> Candid Photography.</title>
+  </head>
+  <body>
+  </body>
+</html>
